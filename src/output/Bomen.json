@@ -1,0 +1,31 @@
+{
+    "data": {
+        "category": {
+            "id": "166",
+            "name": "Bomen",
+            "producten": [
+                {
+                    "id": "2996",
+                    "title": "Bomen, leilinden 4 stuks",
+                    "url": "/materialen/bomen/3e-grote/bomen-leilinden-4-stuks",
+                    "omschrijving": "<p>4 leilinden vari\u00ebrend in dikte van 25-30 tot 30-35 cm.&nbsp;&nbsp;</p>",
+                    "lengtehoogte": 0,
+                    "eenheid_lengtehoogte": "cm",
+                    "breedte": 0,
+                    "eenheid_breedte": "cm",
+                    "hoogtedikte": 0,
+                    "eenheid_hoogtedikte": "cm",
+                    "hoeveelheid": 4,
+                    "eenheid_hoeveel": "stuks",
+                    "op_aanvraag": false,
+                    "adres": "Lange Uitweg 27",
+                    "postcode": "3998WD",
+                    "plaats": "Schalkwijk",
+                    "locatie_gebouw": null,
+                    "latitude": 51.9914645,
+                    "longitude": 5.1684719
+                }
+            ]
+        }
+    }
+}

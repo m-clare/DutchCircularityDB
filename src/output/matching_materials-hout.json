@@ -1,0 +1,1294 @@
+[
+    {
+        "created": "2022-02-22T16:17:18.9787085+00:00",
+        "modified": "2022-02-22T16:26:48.7720679+00:00",
+        "user": {
+            "name": "Evgenia Kanli",
+            "email": "evgenia.kanli@summum.engineering",
+            "organizationName": "Summum Engineering",
+            "isPremium": false,
+            "tenantId": "930297a8-7ccd-4543-9b16-42a1dd66b4bd",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Vraag",
+        "className": "vraag",
+        "status": "Productieproces",
+        "internalProject": true,
+        "public": false,
+        "contractor": "Summum Engineering",
+        "projectName": "Houten Paviljoen",
+        "projectNumber": "",
+        "location": null,
+        "userIsContact": true,
+        "contact": "Evgenia Kanli",
+        "email": "evgenia.kanli@summum.engineering",
+        "periodOf": "1970-01-01T00:00:00.001Z",
+        "periodTo": "2029-12-31T23:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "Vermeld alstublieft de Sterkteklasse",
+        "geolocation": {
+            "latitude": 51.92443968389795,
+            "longitude": 4.477754831314088
+        },
+        "address": {
+            "city": "Centrum, Rotterdam",
+            "street": "Hofplein",
+            "houseNumber": null,
+            "state": "Zuid-Holland",
+            "zipcode": "3032AC",
+            "country": "Nederland",
+            "displayName": "Hofpleinfontein, Hofplein, Stadsdriehoek, Centrum, Rotterdam, Zuid-Holland, Nederland, 3032AC"
+        },
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "f75e5d8e-d15c-4fe8-a1ce-db5e695e6ea1",
+            "code": "23",
+            "title": "Vloeren"
+        },
+        "subType": {
+            "id": "f06a7477-762c-452d-80ec-622a2b979cc0",
+            "code": "23.2",
+            "title": "Constructief"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 5,
+        "lengthUnit": "Meter",
+        "width": 2500,
+        "widthUnit": "Millimeter",
+        "height": 60,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": null,
+        "weightUnit": null,
+        "quantity": 5,
+        "accessibility": null,
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "",
+        "productionYear": "Onbekend",
+        "productCode": "",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [],
+        "condition": {
+            "id": "7a41418f-dc97-401b-9196-2cdcf5292b41",
+            "title": "Goede conditie (beginnende verwering of slijtage)"
+        },
+        "currentLocationBuilding": "",
+        "disassembled": "Ja",
+        "transportProvider": null,
+        "id": "92dc21e7-da53-44c8-b1dd-d7d4fa5e886a",
+        "partitionKey": "question",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2022-03-07T14:16:40.0060278+00:00",
+        "modified": "2022-03-07T14:20:25.5784472+00:00",
+        "user": {
+            "name": "Patrick van de Brake",
+            "email": "pbrake@heijmans.nl",
+            "organizationName": "Heijmans",
+            "isPremium": false,
+            "tenantId": "64b9032e-3a44-4d13-9230-6f329bca0958",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Vraag",
+        "className": "vraag",
+        "status": "Uitvoering",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Heijmans",
+        "projectName": "48 App Vestibule",
+        "projectNumber": "G104061",
+        "location": null,
+        "userIsContact": true,
+        "contact": "Patrick van de Brake",
+        "email": "pbrake@heijmans.nl",
+        "periodOf": "2021-03-08T00:00:00Z",
+        "periodTo": "2022-12-23T00:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "We zijn op zoek naar gebruikte eiken houten panelen",
+        "geolocation": {
+            "latitude": 52.094176618129595,
+            "longitude": 5.068283728924144
+        },
+        "address": {
+            "city": "Leidsche Rijn, Utrecht",
+            "street": "Vestibule, Madridstraat",
+            "houseNumber": null,
+            "state": "Utrecht",
+            "zipcode": "3541DZ",
+            "country": "Nederland",
+            "displayName": "Vestibule, Madridstraat, Leidsche Rijn Centrum, Leidsche Rijn, Utrecht, Nederland, 3541DZ"
+        },
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "3e452ee9-0c48-414f-9715-cc11d69481bb",
+            "code": "41",
+            "title": "Buitenwandafwerkingen"
+        },
+        "subType": {
+            "id": "629d1b80-9425-4877-8713-85e3b31e46c5",
+            "code": "41.1",
+            "title": "Buitenwandafwerkingen"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 3000,
+        "lengthUnit": "Millimeter",
+        "width": 265,
+        "widthUnit": "Millimeter",
+        "height": 28,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": null,
+        "weightUnit": null,
+        "quantity": 30,
+        "accessibility": null,
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "Eiken hout",
+        "productionYear": "Onbekend",
+        "productCode": "nvt",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [],
+        "condition": {
+            "id": "7a41418f-dc97-401b-9196-2cdcf5292b41",
+            "title": "Goede conditie (beginnende verwering of slijtage)"
+        },
+        "currentLocationBuilding": "n.v.t.",
+        "disassembled": "Ja",
+        "transportProvider": "Ja",
+        "id": "98f9f890-e6f4-47ff-8658-8b4ed337f3d2",
+        "partitionKey": "question",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2022-03-07T14:18:39.4687163+00:00",
+        "modified": "2022-03-07T14:18:39.4687172+00:00",
+        "user": {
+            "name": "Patrick van de Brake",
+            "email": "pbrake@heijmans.nl",
+            "organizationName": "Heijmans",
+            "isPremium": false,
+            "tenantId": "64b9032e-3a44-4d13-9230-6f329bca0958",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Vraag",
+        "className": "vraag",
+        "status": "Uitvoering",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Heijmans",
+        "projectName": "48 App Vestibule",
+        "projectNumber": "G104061",
+        "location": null,
+        "userIsContact": true,
+        "contact": "Patrick van de Brake",
+        "email": "pbrake@heijmans.nl",
+        "periodOf": "2021-03-08T00:00:00Z",
+        "periodTo": "2022-12-23T00:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "",
+        "geolocation": {
+            "latitude": 52.094176618129595,
+            "longitude": 5.068283728924144
+        },
+        "address": {
+            "city": "Leidsche Rijn, Utrecht",
+            "street": "Vestibule, Madridstraat",
+            "houseNumber": null,
+            "state": "Utrecht",
+            "zipcode": "3541DZ",
+            "country": "Nederland",
+            "displayName": "Vestibule, Madridstraat, Leidsche Rijn Centrum, Leidsche Rijn, Utrecht, Nederland, 3541DZ"
+        },
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "3e452ee9-0c48-414f-9715-cc11d69481bb",
+            "code": "41",
+            "title": "Buitenwandafwerkingen"
+        },
+        "subType": {
+            "id": "629d1b80-9425-4877-8713-85e3b31e46c5",
+            "code": "41.1",
+            "title": "Buitenwandafwerkingen"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 3000,
+        "lengthUnit": "Millimeter",
+        "width": 500,
+        "widthUnit": "Millimeter",
+        "height": 50,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": null,
+        "weightUnit": null,
+        "quantity": 10,
+        "accessibility": null,
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "Eiken hout",
+        "productionYear": "Onbekend",
+        "productCode": "nvt",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [],
+        "condition": {
+            "id": "7a41418f-dc97-401b-9196-2cdcf5292b41",
+            "title": "Goede conditie (beginnende verwering of slijtage)"
+        },
+        "currentLocationBuilding": "n.v.t.",
+        "disassembled": "Ja",
+        "transportProvider": "Ja",
+        "id": "9996180f-f8b3-44ea-9a29-08242ecacb74",
+        "partitionKey": "question",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2022-03-24T07:22:32.2299911+00:00",
+        "modified": "2022-03-24T07:22:32.2299958+00:00",
+        "user": {
+            "name": "Bart Breedijk",
+            "email": "bbreedijk@Heijmans.nl",
+            "organizationName": "Heijmans",
+            "isPremium": false,
+            "tenantId": "64b9032e-3a44-4d13-9230-6f329bca0958",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Vraag",
+        "className": "vraag",
+        "status": "Uitvoering",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Heijmans",
+        "projectName": "Keramiek musuem",
+        "projectNumber": "ntb",
+        "location": null,
+        "userIsContact": false,
+        "contact": "Niek Tolsma",
+        "email": "ntolsma@Heijmans.nl",
+        "periodOf": "2022-04-25T00:00:00Z",
+        "periodTo": "2022-05-31T00:00:00Z",
+        "periodTender": "2022-04-30T00:00:00Z",
+        "proofAvailable": false,
+        "comments": "",
+        "geolocation": {
+            "latitude": 53.20287730800535,
+            "longitude": 5.792391300201417
+        },
+        "address": {
+            "city": "Binnenstad en Stationskwartier, Leeuwarden",
+            "street": "8994, Grote Kerkstraat",
+            "houseNumber": null,
+            "state": "Frysl\u00e2n",
+            "zipcode": "8911EC",
+            "country": "Nederland",
+            "displayName": "8994, Grote Kerkstraat, Binnenstad en Stationskwartier, Leeuwarden, Frysl\u00e2n, Nederland, 8911EC"
+        },
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "92581484-9992-4d5c-b573-00df77a4bc5b",
+            "code": "48",
+            "title": "Afwerkingpakketten"
+        },
+        "subType": {
+            "id": "569c0ca1-646a-421e-9589-0a93a1642e91",
+            "code": "48.0",
+            "title": "Algemeen"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 3,
+        "lengthUnit": "Meter",
+        "width": 50,
+        "widthUnit": "Millimeter",
+        "height": 70,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": 1,
+        "weightUnit": "Kg",
+        "quantity": 90,
+        "accessibility": null,
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "rachelhout",
+        "productionYear": "Onbekend",
+        "productCode": "ntb",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [],
+        "condition": {
+            "id": "7a41418f-dc97-401b-9196-2cdcf5292b41",
+            "title": "Goede conditie (beginnende verwering of slijtage)"
+        },
+        "currentLocationBuilding": "nog te plaatsen",
+        "disassembled": "Ja",
+        "transportProvider": "Nee",
+        "id": "136c69fe-3523-4fd7-9b78-e1174fefcb34",
+        "partitionKey": "question",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2022-03-24T07:24:19.2351027+00:00",
+        "modified": "2022-03-24T07:24:19.2351039+00:00",
+        "user": {
+            "name": "Bart Breedijk",
+            "email": "bbreedijk@Heijmans.nl",
+            "organizationName": "Heijmans",
+            "isPremium": false,
+            "tenantId": "64b9032e-3a44-4d13-9230-6f329bca0958",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Vraag",
+        "className": "vraag",
+        "status": "Uitvoering",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Heijmans",
+        "projectName": "Keramiek musuem",
+        "projectNumber": "ntb",
+        "location": null,
+        "userIsContact": false,
+        "contact": "Niek Tolsma",
+        "email": "ntolsma@Heijmans.nl",
+        "periodOf": "2022-04-25T00:00:00Z",
+        "periodTo": "2022-05-31T00:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "",
+        "geolocation": {
+            "latitude": 53.20287730800535,
+            "longitude": 5.792391300201417
+        },
+        "address": {
+            "city": "Binnenstad en Stationskwartier, Leeuwarden",
+            "street": "8994, Grote Kerkstraat",
+            "houseNumber": null,
+            "state": "Frysl\u00e2n",
+            "zipcode": "8911EC",
+            "country": "Nederland",
+            "displayName": "8994, Grote Kerkstraat, Binnenstad en Stationskwartier, Leeuwarden, Frysl\u00e2n, Nederland, 8911EC"
+        },
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "92581484-9992-4d5c-b573-00df77a4bc5b",
+            "code": "48",
+            "title": "Afwerkingpakketten"
+        },
+        "subType": {
+            "id": "569c0ca1-646a-421e-9589-0a93a1642e91",
+            "code": "48.0",
+            "title": "Algemeen"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 3,
+        "lengthUnit": "Meter",
+        "width": 250,
+        "widthUnit": "Millimeter",
+        "height": 75,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": 10,
+        "weightUnit": "Kg",
+        "quantity": 30,
+        "accessibility": null,
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "Houten balken voor bouw podium",
+        "productionYear": "Onbekend",
+        "productCode": "ntb",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [],
+        "condition": {
+            "id": "7a41418f-dc97-401b-9196-2cdcf5292b41",
+            "title": "Goede conditie (beginnende verwering of slijtage)"
+        },
+        "currentLocationBuilding": "nog te plaatsen",
+        "disassembled": "Ja",
+        "transportProvider": "Nee",
+        "id": "53ef6a37-7843-45f8-bb39-07871eb9e249",
+        "partitionKey": "question",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2021-06-11T10:29:31.3529748+00:00",
+        "modified": "2021-06-11T10:29:31.3529754+00:00",
+        "user": {
+            "name": "Gerlings, Luc",
+            "email": "lgerlings@heijmans.nl",
+            "organizationName": "Heijmans",
+            "isPremium": false,
+            "tenantId": "64b9032e-3a44-4d13-9230-6f329bca0958",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Aanbod",
+        "className": "aanbod",
+        "status": "Uitvoering",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Heijmans",
+        "projectName": "Science Campus Leiden",
+        "projectNumber": "",
+        "location": null,
+        "userIsContact": true,
+        "contact": "Gerlings, Luc",
+        "email": "lgerlings@heijmans.nl",
+        "periodOf": "2021-08-30T00:00:00Z",
+        "periodTo": "2023-11-10T00:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "",
+        "geolocation": {
+            "latitude": 52.16819388026799,
+            "longitude": 4.461050033569337
+        },
+        "address": {
+            "city": "Leiden",
+            "street": "Universiteit Leiden, Einsteinweg",
+            "houseNumber": null,
+            "state": "Zuid-Holland",
+            "zipcode": "2333CE",
+            "country": "Nederland",
+            "displayName": "Universiteit Leiden, Einsteinweg, Leiden Bio Science Park, Leiden, Zuid-Holland, Nederland, 2333CE"
+        },
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "1b3517c2-58bd-4b26-9d62-94ec53ee2dd7",
+            "code": "21",
+            "title": "Buitenwanden"
+        },
+        "subType": {
+            "id": "e23c097b-1897-4482-beeb-4702d92422ae",
+            "code": "21.1",
+            "title": "Niet Constructief"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            },
+            {
+                "id": "3db93d81-1898-496c-aea9-f28085ab5ff6",
+                "title": "Kunststoffen, rubbers"
+            },
+            {
+                "id": "98b6445e-d575-432b-8e0a-03b8d7967e3e",
+                "title": "Metaal"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 35,
+        "lengthUnit": "Meter",
+        "width": 227,
+        "widthUnit": "Millimeter",
+        "height": 21,
+        "heightUnit": "Meter",
+        "area": null,
+        "areaUnit": null,
+        "weight": null,
+        "weightUnit": null,
+        "quantity": 40,
+        "accessibility": {
+            "id": "f06ea042-a9e4-4cb5-9f30-fa692f0a8665",
+            "title": "Toegankelijk met extra handelingen die geen schade veroorzaken"
+        },
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "HSB gevel incl. trespa beplating",
+        "productionYear": "2014",
+        "productCode": "",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [
+            {
+                "id": "ef94f4ea-cf4a-4598-9305-35be73a90cd7",
+                "name": "131003 - 2.100 Details Wachtgevel rev A+B.pdf",
+                "type": "application/pdf",
+                "content": null
+            },
+            {
+                "id": "2d499036-693f-40fc-95df-d431b9bc88e9",
+                "name": "131003 - 3.101 Aanzicht Wachtgevel rev B.pdf",
+                "type": "application/pdf",
+                "content": null
+            }
+        ],
+        "warranties": [],
+        "photos": [
+            {
+                "id": "aa98664a-dad4-4648-bb56-18fc06822ac6",
+                "name": "20201014_113029.jpg",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "1d45fc8c-c1e8-4ae6-936a-ce97697ad8d9",
+                "name": "20201014_113012.jpg",
+                "type": "image/jpeg",
+                "content": null
+            }
+        ],
+        "condition": {
+            "id": "0628dd12-9823-4fc0-9d3d-24eced5f7050",
+            "title": "Redelijke conditie (opvallende verouderingsprocessen)"
+        },
+        "currentLocationBuilding": "",
+        "disassembled": "Nee",
+        "transportProvider": null,
+        "id": "96b8108d-701a-4805-b780-dc5d1cb0494d",
+        "partitionKey": "offer",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2022-02-11T12:53:26.3877944+00:00",
+        "modified": "2022-02-11T12:54:58.1329584+00:00",
+        "user": {
+            "name": "Nick Kempers",
+            "email": "n.kempers@stadsmijnachterhoek.nl",
+            "organizationName": "Stadsmijn Achterhoek",
+            "isPremium": false,
+            "tenantId": "930297a8-7ccd-4543-9b16-42a1dd66b4bd",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Aanbod",
+        "className": "aanbod",
+        "status": "Productieproces",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Stadsmijn Achterhoek",
+        "projectName": "",
+        "projectNumber": "",
+        "location": null,
+        "userIsContact": false,
+        "contact": "Stadsmijn Achterhoek",
+        "email": "info@stadsmijnachterhoek.nl",
+        "periodOf": "1970-01-01T00:00:00.001Z",
+        "periodTo": "2029-12-31T23:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "",
+        "geolocation": {
+            "latitude": 52.05693372712442,
+            "longitude": 6.619584560394288
+        },
+        "address": {
+            "city": "Groenlo",
+            "street": "Zuidgang",
+            "houseNumber": null,
+            "state": "Gelderland",
+            "zipcode": "7141JK",
+            "country": "Nederland",
+            "displayName": "Zuidgang, De Laarberg, Groenlo, Oost Gelre, Gelderland, Nederland, 7141JK"
+        },
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "d97a43fa-3903-4558-9094-82d0b2f6788a",
+            "code": "28",
+            "title": "Hoofddraagconstructies"
+        },
+        "subType": {
+            "id": "2c536b1e-7804-483e-bb8d-c0320252b596",
+            "code": "28.0",
+            "title": "Algemeen"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 4500,
+        "lengthUnit": "Millimeter",
+        "width": 60,
+        "widthUnit": "Millimeter",
+        "height": 190,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": 1,
+        "weightUnit": "Kg",
+        "quantity": 75,
+        "accessibility": {
+            "id": "35af39b7-705a-45a2-a13b-d1203fc16fb9",
+            "title": "Toegankelijk"
+        },
+        "producer": {
+            "id": "9250c822-5001-452b-8aaf-18395391adb7",
+            "title": "Bekend"
+        },
+        "producerName": "Stadsmijn Achterhoek",
+        "productName": "Hout",
+        "productionYear": "Onbekend",
+        "productCode": "Hout",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [
+            {
+                "id": "552f4aee-ae3a-48cd-8aee-f63d5b2c98d5",
+                "name": "WhatsApp-Image-2021-12-15-at-10.45.39-1-150x150.jpeg",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "ec6f1551-bef8-4e92-80ef-200edff02c1b",
+                "name": "WhatsApp-Image-2021-12-15-at-10.45.39-550x550.jpeg",
+                "type": "image/jpeg",
+                "content": null
+            }
+        ],
+        "condition": {
+            "id": "7a41418f-dc97-401b-9196-2cdcf5292b41",
+            "title": "Goede conditie (beginnende verwering of slijtage)"
+        },
+        "currentLocationBuilding": "Op voorraad",
+        "disassembled": "Ja",
+        "transportProvider": "Nee",
+        "id": "5230a1c8-e45b-4fd0-bc9f-38970c5308ba",
+        "partitionKey": "offer",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2022-04-12T09:55:58.2050754+00:00",
+        "modified": "2022-04-12T09:55:58.2050766+00:00",
+        "user": {
+            "name": "Sebastiaan Molenaar",
+            "email": "smolenaar@beelen.nl",
+            "organizationName": "Beelen NEXT",
+            "isPremium": false,
+            "tenantId": "930297a8-7ccd-4543-9b16-42a1dd66b4bd",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Aanbod",
+        "className": "aanbod",
+        "status": "Uitvoering",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Beelen NEXT",
+        "projectName": "Rabobank Croeselaan",
+        "projectNumber": "21.0285",
+        "location": null,
+        "userIsContact": true,
+        "contact": "Sebastiaan Molenaar",
+        "email": "smolenaar@beelen.nl",
+        "periodOf": "2022-05-02T00:00:00Z",
+        "periodTo": "2022-05-27T00:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "",
+        "geolocation": {
+            "latitude": 52.08591781237265,
+            "longitude": 5.109028816223145
+        },
+        "address": {
+            "city": "Utrecht",
+            "street": "Rabobank, Croeselaan",
+            "houseNumber": "18",
+            "state": "Utrecht",
+            "zipcode": "3521CB",
+            "country": "Nederland",
+            "displayName": "Rabobank, 18, Croeselaan, Dichterswijk, Utrecht, Nederland, 3521CB"
+        },
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "1504c8c5-2ba2-44cc-9e05-62dfeff8dd34",
+            "code": "42",
+            "title": "Binnenwandafwerkingen"
+        },
+        "subType": {
+            "id": "cb5e482f-96ad-4c75-99fd-81fb707e5390",
+            "code": "42.0",
+            "title": "Algemeen"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 28,
+        "lengthUnit": "Meter",
+        "width": 1,
+        "widthUnit": "Meter",
+        "height": 200,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": 1,
+        "weightUnit": "Ton",
+        "quantity": 1,
+        "accessibility": {
+            "id": "35af39b7-705a-45a2-a13b-d1203fc16fb9",
+            "title": "Toegankelijk"
+        },
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "Houten aanrijbeveiliging ",
+        "productionYear": "Onbekend",
+        "productCode": "",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [
+            {
+                "id": "4ddba68a-ecad-49c6-8416-f3e5f2625cd5",
+                "name": "IMG_4968.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "c8f73098-8b86-4cc1-895b-c8440a68ac95",
+                "name": "IMG_4969.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "12b39488-7aa5-4b80-88f0-6875a203242e",
+                "name": "IMG_4970.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "031700bb-10cf-4e6d-9f32-f03a70bc54c7",
+                "name": "IMG_4971.JPG",
+                "type": "image/jpeg",
+                "content": null
+            }
+        ],
+        "condition": {
+            "id": "662da79d-a389-49f4-8d82-ed6f2c745e70",
+            "title": "Matige conditie (plaatselijk functionele gebreken)"
+        },
+        "currentLocationBuilding": "",
+        "disassembled": "Nee",
+        "transportProvider": null,
+        "id": "ed7697a3-d32f-43e1-aae4-fb06640e172e",
+        "partitionKey": "offer",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2022-04-12T09:59:19.0851793+00:00",
+        "modified": "2022-04-12T09:59:19.0851808+00:00",
+        "user": {
+            "name": "Sebastiaan Molenaar",
+            "email": "smolenaar@beelen.nl",
+            "organizationName": "Beelen NEXT",
+            "isPremium": false,
+            "tenantId": "930297a8-7ccd-4543-9b16-42a1dd66b4bd",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Aanbod",
+        "className": "aanbod",
+        "status": "Uitvoering",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Beelen NEXT",
+        "projectName": "Rabobank Croeselaan",
+        "projectNumber": "21.0285",
+        "location": null,
+        "userIsContact": true,
+        "contact": "Sebastiaan Molenaar",
+        "email": "smolenaar@beelen.nl",
+        "periodOf": "2022-05-02T00:00:00Z",
+        "periodTo": "2022-05-27T00:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "",
+        "geolocation": {
+            "latitude": 52.08591781237265,
+            "longitude": 5.109028816223145
+        },
+        "address": null,
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "40afda4c-445d-4c51-918e-c2e9b3e19a71",
+            "code": "22",
+            "title": "Binnenwanden"
+        },
+        "subType": {
+            "id": "5361b7b9-74a0-47b2-b6a2-c9636a018c37",
+            "code": "22.1",
+            "title": "Niet Constructief"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            },
+            {
+                "id": "fcef02d6-b3a5-4c34-ae93-017b59d8e09d",
+                "title": "Glas"
+            },
+            {
+                "id": "98b6445e-d575-432b-8e0a-03b8d7967e3e",
+                "title": "Metaal"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 28,
+        "lengthUnit": "Meter",
+        "width": 1,
+        "widthUnit": "Millimeter",
+        "height": 4600,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": null,
+        "weightUnit": null,
+        "quantity": 1,
+        "accessibility": {
+            "id": "35af39b7-705a-45a2-a13b-d1203fc16fb9",
+            "title": "Toegankelijk"
+        },
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "Houten kozijnen ",
+        "productionYear": "Onbekend",
+        "productCode": "",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [
+            {
+                "id": "1356069d-4c7e-42bf-8605-61c911aa0f3a",
+                "name": "IMG_4968.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "c302bf16-ba57-4b94-a7ed-611767b9f073",
+                "name": "IMG_4971.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "164fa205-1f5a-44bd-b18d-1e43ce5af365",
+                "name": "IMG_4973.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "9e8a9492-99e2-4e13-be79-b2ebe5b4a42a",
+                "name": "IMG_4974.JPG",
+                "type": "image/jpeg",
+                "content": null
+            }
+        ],
+        "condition": {
+            "id": "7a41418f-dc97-401b-9196-2cdcf5292b41",
+            "title": "Goede conditie (beginnende verwering of slijtage)"
+        },
+        "currentLocationBuilding": "",
+        "disassembled": "Nee",
+        "transportProvider": null,
+        "id": "7d56f206-9406-4e2c-8c02-72e2277b1f3f",
+        "partitionKey": "offer",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2022-04-12T11:14:41.9686452+00:00",
+        "modified": "2022-04-12T11:14:41.9686462+00:00",
+        "user": {
+            "name": "Sebastiaan Molenaar",
+            "email": "smolenaar@beelen.nl",
+            "organizationName": "Beelen NEXT",
+            "isPremium": false,
+            "tenantId": "930297a8-7ccd-4543-9b16-42a1dd66b4bd",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Aanbod",
+        "className": "aanbod",
+        "status": "Uitvoering",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Beelen NEXT",
+        "projectName": "Rabobank Croeselaan",
+        "projectNumber": "21.0285",
+        "location": null,
+        "userIsContact": true,
+        "contact": "Sebastiaan Molenaar",
+        "email": "smolenaar@beelen.nl",
+        "periodOf": "2022-05-02T00:00:00Z",
+        "periodTo": "2022-05-27T00:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "Diversen automatische klapdeuren. Deze deuren hebben verschillende afmetingen. Deze kunt u opvragen via het contactformulier. ",
+        "geolocation": {
+            "latitude": 52.08591781237265,
+            "longitude": 5.109028816223145
+        },
+        "address": null,
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "1c29a569-1c6c-4150-bd7a-d689a5e051b4",
+            "code": "32",
+            "title": "Binnenwandopeningen"
+        },
+        "subType": {
+            "id": "7375d327-6e12-4c83-a900-e90b84befd8c",
+            "code": "32.30",
+            "title": "Gevuld met Deuren, Algemeen (Verzamelniveau)"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 1,
+        "lengthUnit": "Millimeter",
+        "width": 1,
+        "widthUnit": "Millimeter",
+        "height": 1,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": null,
+        "weightUnit": null,
+        "quantity": 3,
+        "accessibility": {
+            "id": "35af39b7-705a-45a2-a13b-d1203fc16fb9",
+            "title": "Toegankelijk"
+        },
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "Dubbele automatische deuren ",
+        "productionYear": "Onbekend",
+        "productCode": "",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [
+            {
+                "id": "ba99b991-2e47-4aff-9f48-63d871de03c9",
+                "name": "IMG_4976.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "f635fe96-1e8e-4159-85d5-344c31fc8e83",
+                "name": "IMG_4978.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "ff7054f2-b5af-47cf-8011-fa6e8c586075",
+                "name": "IMG_4981.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "82463254-41a9-4543-8dde-a2b8fd48ebf6",
+                "name": "IMG_4983.JPG",
+                "type": "image/jpeg",
+                "content": null
+            },
+            {
+                "id": "bcd796e2-647b-46a2-ac31-db1e46449936",
+                "name": "IMG_4984.JPG",
+                "type": "image/jpeg",
+                "content": null
+            }
+        ],
+        "condition": {
+            "id": "0628dd12-9823-4fc0-9d3d-24eced5f7050",
+            "title": "Redelijke conditie (opvallende verouderingsprocessen)"
+        },
+        "currentLocationBuilding": "",
+        "disassembled": "Nee",
+        "transportProvider": null,
+        "id": "ef9fbf86-beda-4a07-81c3-e4e470b21b3f",
+        "partitionKey": "offer",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    },
+    {
+        "created": "2022-04-12T12:16:23.191665+00:00",
+        "modified": "2022-04-12T12:16:23.1916664+00:00",
+        "user": {
+            "name": "Sebastiaan Molenaar",
+            "email": "smolenaar@beelen.nl",
+            "organizationName": "Beelen NEXT",
+            "isPremium": false,
+            "tenantId": "930297a8-7ccd-4543-9b16-42a1dd66b4bd",
+            "isAdmin": false,
+            "canChangeEmail": false
+        },
+        "type": "Aanbod",
+        "className": "aanbod",
+        "status": "Uitvoering",
+        "internalProject": true,
+        "public": true,
+        "contractor": "Beelen NEXT",
+        "projectName": "Rabobank Croeselaan",
+        "projectNumber": "21.0285",
+        "location": null,
+        "userIsContact": true,
+        "contact": "Sebastiaan Molenaar",
+        "email": "smolenaar@beelen.nl",
+        "periodOf": "2022-05-02T00:00:00Z",
+        "periodTo": "2022-05-27T00:00:00Z",
+        "periodTender": "1970-01-01T00:00:00.001Z",
+        "proofAvailable": false,
+        "comments": "",
+        "geolocation": {
+            "latitude": 52.08591781237265,
+            "longitude": 5.109028816223145
+        },
+        "address": null,
+        "sendEmail": false,
+        "attachments": null,
+        "expired": false,
+        "termsAndConditionsAccepted": true,
+        "productClassification": {
+            "id": "d826d206-475c-4ce8-a2d9-fcbbbd40970a",
+            "code": "73",
+            "title": "Vaste Keukenvoorzieningen"
+        },
+        "subType": {
+            "id": "ecb37ca6-41fa-4f1f-9932-e437af0853df",
+            "code": "73.11",
+            "title": "Standaard, Keukenmeubilering"
+        },
+        "materials": [
+            {
+                "id": "a5324d42-9b67-479c-8c50-1b69d252d578",
+                "title": "Hout"
+            }
+        ],
+        "connection": {
+            "id": "ea630703-9e06-41fc-ae9d-adb834315138",
+            "title": "Droge verbinding"
+        },
+        "length": 4540,
+        "lengthUnit": "Millimeter",
+        "width": 1,
+        "widthUnit": "Millimeter",
+        "height": 1,
+        "heightUnit": "Millimeter",
+        "area": null,
+        "areaUnit": null,
+        "weight": null,
+        "weightUnit": null,
+        "quantity": 1,
+        "accessibility": {
+            "id": "f06ea042-a9e4-4cb5-9f30-fa692f0a8665",
+            "title": "Toegankelijk met extra handelingen die geen schade veroorzaken"
+        },
+        "producer": {
+            "id": "94bc65b9-025d-40d0-b893-165ecc3e1c6b",
+            "title": "Onbekend"
+        },
+        "producerName": "",
+        "productName": "Pantry keuken ",
+        "productionYear": "Onbekend",
+        "productCode": "",
+        "lcaScore": {
+            "id": "be031c19-89fc-4c5b-b252-05ab3215d71d",
+            "title": "Niet beschikbaar"
+        },
+        "certificates": [],
+        "warranties": [],
+        "photos": [
+            {
+                "id": "ecc71ce7-f00e-4b11-ac23-dc7dbd23a55e",
+                "name": "IMG_5017.JPG",
+                "type": "image/jpeg",
+                "content": null
+            }
+        ],
+        "condition": {
+            "id": "7a41418f-dc97-401b-9196-2cdcf5292b41",
+            "title": "Goede conditie (beginnende verwering of slijtage)"
+        },
+        "currentLocationBuilding": "",
+        "disassembled": "Nee",
+        "transportProvider": null,
+        "id": "1862a0a1-dd0f-497c-b2c4-6fe9a16b433e",
+        "partitionKey": "offer",
+        "documentType": "buildingmaterialrequest",
+        "deleted": false
+    }
+]
