@@ -16,10 +16,17 @@ __version__ = "0.0.1"
 # -> Login in to matchingmaterials.com using Microsoft
 # -> F11 -or- Right-click in top menu bar -> Inspect
 #    - (either way will pop up Inspection Pane in Browser)
-# -> From bottom window, select Network Tab and find name matching "getByFilter"
+# -> Submit actual filtered query to the db by some material
+# -> From bottom window, select Network Tab and find Network request:
+#    - status = 200 (successful)
+#    - Method = post
+#    - file   = getByFilter
+#    - type   = json
 # -> Selecting getByFilter should show a side menu with Headers
 # -> Scroll down to Request Headers
 #    - Find "Authorization" and replace the headers dictionary below
+#    - In Firefox, hover over the question mark with the field and select copy! Otherwise
+#      parts of the *large* bearer token may be omitted and the request will not work
 #
 # There *should* be a way to automatically get a token from Microsoft
 # *without* this browser interaction
