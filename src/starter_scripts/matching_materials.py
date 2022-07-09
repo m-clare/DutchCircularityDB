@@ -53,10 +53,14 @@ payload = json.dumps({
   "subTypeId": "",
   "materialId": ""
 })
+
+token="YOURACTIVETOKENHERE"
 headers = {
-    'Authorization': 'Bearer {token}'.format(token=os.environ.get('MATCHING_MATERIAL_TOKEN')),
+    'Authorization': 'Bearer {token}'.format(token=token),
   'Content-Type': 'application/json',
 }
+
+
 
 response = requests.request("POST", url, headers=headers, data=payload)
 

@@ -40,9 +40,25 @@ for link in material_links:
     material_response = requests.request('GET', link)
     material_soup = BeautifulSoup(material_response.text, 'html.parser')
     availability = material_soup.find_all("div", class_="availability-item")
+    test = availability.find("span")
+    print(test)
     specification = material_soup.find_all("div", class_="specification-item")
     material_info.append({'name': link.split('/')[-2],
                           'availability': availability,
                           'specification': specification})
 
-print(material_info)
+# for material in material_info:
+#     items = material['availability']
+#     spans = []
+#     for item in material['availability']:
+#         for element in item:
+#             try:
+#                 thing = element.find('span')
+#                 print(thing)
+#                 # if thing:
+#                     # print(thing.contents)
+#             except TypeError:
+#                 pass
+#             # thing = re.search('<span.*>(.+)<.*', str(element.string))
+            # filtered_items = list(filter(lambda x: re.search('.*span.*', x), item.contents))
+        # print(filtered_items )
